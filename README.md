@@ -1,7 +1,7 @@
 
 # spaceJmmy-blog-template
-spaceJmmy的博客模板 
-欢迎 **fork** 和 **点赞** 哦^_^
+[spaceJmmy的博客模板](https://github.com/spaceJmmy/spaceJmmy-blog-template)
+    欢迎 **fork** 和 **点赞** 哦^_^
 
 
 # 使用部署教程详见:
